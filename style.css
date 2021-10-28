@@ -1,3 +1,6 @@
+* {
+  outline: 0;
+}
 #particles-js {
   background: firebrick;
   height: 100vh;
